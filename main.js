@@ -1,5 +1,6 @@
 "use strict";
 "use a strict"
+"use b strict"
 
 const fs = require('fs-extra');
 const {
